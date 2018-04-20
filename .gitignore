@@ -102,3 +102,5 @@ ENV/
 
 # .orig
 .orig
+.ipynb.orig
+
